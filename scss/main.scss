@@ -1,0 +1,21 @@
+@import '.base/module';
+@import '.components/module';
+@import '.layout/module';
+@import '.pages/module';
+@import '.themes/module';
+@import '.utils/module';
+@import '.vendors/module';
+
+@import './base/common';
+//components
+@import '.components/conteiner';
+@import '.components/section';
+@import '.components/modal-btn';
+@import '.components/social-links';
+@import '.components/subtitle';
+@import '.components/description';
+@import '.components/title';
+@import '.components/sotial-list';
+@import '.components/backdrop';
+@import '.components/modal';
+@import '.components/modal-form';

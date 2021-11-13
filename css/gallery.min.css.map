@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,iBAAiB,AAAC,CACd,OAAO,CAAE,IAAI,CAChB,AACD,AAAA,iBAAiB,CAAC,EAAE,AAAA,IAAK,CAAA,WAAW,CAAE,CAClC,YAAY,CAAE,IAAI,CACrB",
-    "sources": [
-        "../scss/layout/gallery.scss"
-    ],
-    "names": [],
-    "file": "gallery.min.css"
-}

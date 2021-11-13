@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,YAAY,AAAC,CACT,gBAAgB,CAAE,OAAO,CAC5B,AACD,AAAA,QAAQ,CAAE,QAAQ,CAAE,QAAQ,AAAC,CACzB,aAAa,CAAE,IAAI,CACvB,WAAW,CAAE,GAAG,CAChB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CAChB,UAAU,CAAE,MAAM,CAClB,cAAc,CAAE,MAAM,CACrB",
-    "sources": [
-        "../scss/layout/komanda.scss"
-    ],
-    "names": [],
-    "file": "komanda.min.css"
-}

@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CACvB;;AACD,AAAA,oBAAoB,CAAC;EACjB,WAAW,EAAE,IAAI;CACpB",
-    "sources": [
-        "../scss/components/section.scss"
-    ],
-    "names": [],
-    "file": "section.css"
-}

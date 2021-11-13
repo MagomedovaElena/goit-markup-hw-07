@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,gBAAgB,EAAE,OAAO;CAC5B;;AACD,AAAA,QAAQ,EAAE,QAAQ,EAAE,QAAQ,CAAC;EACzB,aAAa,EAAE,IAAI;EACvB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAClB,cAAc,EAAE,MAAM;CACrB",
-    "sources": [
-        "../scss/layout/komanda.scss"
-    ],
-    "names": [],
-    "file": "komanda.css"
-}

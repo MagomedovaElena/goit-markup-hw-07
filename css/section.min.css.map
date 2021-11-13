@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CACL,WAAW,CAAE,IAAI,CACjB,cAAc,CAAE,IAAI,CACvB,AACD,AAAA,oBAAoB,AAAC,CACjB,WAAW,CAAE,IAAI,CACpB",
+    "sources": [
+        "../scss/components/section.scss"
+    ],
+    "names": [],
+    "file": "section.min.css"
+}

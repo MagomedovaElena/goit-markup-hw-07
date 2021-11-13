@@ -5,17 +5,32 @@
 @import '.themes/module';
 @import '.utils/module';
 @import '.vendors/module';
+//UTILS
+@import '.utils/variables';
+@import '.utils/visually-hidden';
 
+//BASE
 @import './base/common';
 //components
-@import '.components/conteiner';
+@import '.components/container';
 @import '.components/section';
 @import '.components/modal-btn';
 @import '.components/social-links';
 @import '.components/subtitle';
 @import '.components/description';
 @import '.components/title';
-@import '.components/sotial-list';
+@import '.components/social-list';
 @import '.components/backdrop';
 @import '.components/modal';
 @import '.components/modal-form';
+//LAYOUT
+@import '.layout/header';
+@import '.layout/hero';
+@import '.layout/about';
+@import '.layout/sevsices';
+@import '.layout/advantages';
+@import '.layout/komanda';
+@import '.layout/gallery';
+@import '.layout/contact';
+@import '.layout/contact uo';
+@import '.layout/footer';

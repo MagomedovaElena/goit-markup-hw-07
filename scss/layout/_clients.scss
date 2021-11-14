@@ -25,8 +25,8 @@
 }
 .button-client:hover,
 .button-client:focus {
-    fill: #2196F3;    
-    border: 1px solid #2196F3;
+    fill: var(--accent-color);    
+    border: 1px solid var(--accent-color);
 }
 .button-icon {
     background-size: contain;

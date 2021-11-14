@@ -1,6 +1,6 @@
 body {    
-font-family: 'Roboto', sans-serif;
-color: #212121;
+font-family: var(--main-font);
+color: var(--primary-color);
 }
 * {
     margin: 0;
@@ -8,12 +8,12 @@ color: #212121;
 }
 a {
     text-decoration: none;
-}
-a:active {
-    color: #2196F3;
-}
-a:visited {    
-color: #212121;
+    &:active {
+    color: var(--accent-color);
+    }
+    &:visited {    
+    color: var(--primary-color);
+    }
 }
 ul {
     list-style-type: none;
